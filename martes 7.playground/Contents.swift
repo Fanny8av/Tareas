@@ -34,3 +34,4 @@ func personajesVarios (secundario:String, reparto:String) ->String{
     return algunosPersonajes
 }
 personajesVarios("Ragnar", "Laggertta")
+ 
